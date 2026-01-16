@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/joselyn7.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Joselyne MPAYIMANA"
   navbar:
     left:
       - href: index.qmd
@@ -14,10 +14,12 @@ website:
         text: Publications
       - href: content.qmd
         text: Content & Deliverables
+      
+      
 
 format:
   html:
-    theme: flatly
+    theme: cyborg
     css: styles.css
     toc: true
 

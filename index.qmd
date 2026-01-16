@@ -1,26 +1,26 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Joselyne's E-Portfolio"
+image: C:/Users/joselyn7.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/5F8A0042.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/joselyne-mpayimana-718419111/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/Joselyne97
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:joselynejojo740@gmail.com
 ---
 
-Hey there people,
+## About Me
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
+I am currently a Master of Geomatics for Environmental Management (MGEM) student at the University of British Columbia, where my research focuses on understanding how historical land use and landscape structure relate to climate stressors on the Southern Gulf Islands. This work has helped me think more critically about how spatial data can be used to support environmental decision-making in practice.
+I completed my undergraduate degree in Geography with a specialization in Environmental Management at the University of Rwanda. Growing up and studying in Rwanda shaped my interest in land, environment, and people, especially in contexts where land use decisions directly affect livelihoods and ecosystems. 
+My undergraduate program gave me a strong foundation in environmental assessment, resource management, and spatial thinking, which continues to guide my work today.
+Through my studies and projects, I have worked with GIS and remote sensing tools such as ArcGIS and QGIS, and I use R and Python for data analysis, automation, and spatial workflows. I enjoy working with different types of data and bringing them together in ways that make patterns easier to understand and communicate. I am particularly interested in producing clear maps and analyses that can be useful beyond academic settings.
+Alongside my academic work, I have been involved in community-based and applied environmental projects, which have influenced how I approach spatial analysis. These experiences have reinforced my interest in land-use planning, ecosystem monitoring, and climate adaptation, especially work that connects technical analysis with real-world environmental challenges.
 
-Write something about myself, very exciting.
