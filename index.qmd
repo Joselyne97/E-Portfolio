@@ -16,7 +16,7 @@ about:
       href: mailto:joselynejojo740@gmail.com
 ---
 
-## About Me
+### About Me
 
 I am currently a Master of Geomatics for Environmental Management (MGEM) student at the University of British Columbia, where my research focuses on understanding how historical land use and landscape structure relate to climate stressors on the Southern Gulf Islands. This work has helped me think more critically about how spatial data can be used to support environmental decision-making in practice.
 I completed my undergraduate degree in Geography with a specialization in Environmental Management at the University of Rwanda. Growing up and studying in Rwanda shaped my interest in land, environment, and people, especially in contexts where land use decisions directly affect livelihoods and ecosystems. 
