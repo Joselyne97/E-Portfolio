@@ -1,6 +1,6 @@
 ---
 title: "Joselyne's E-Portfolio"
-image: C:/Users/joselyn7.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/5F8A0042.jpg
+image: images/5F8A0042.jpg
 about:
   template: trestles
   image-width: 20em
