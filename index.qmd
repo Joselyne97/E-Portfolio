@@ -1,7 +1,7 @@
 ---
 title: "Joselyne's E-Portfolio"
-image: images/5F8A0042.jpg
-about:
+image: images\5F8A0042.jpg
+about: 
   template: trestles
   image-width: 20em
   links: 
